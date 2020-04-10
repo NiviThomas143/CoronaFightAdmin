@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "576911066150",
+    "firebase_url": "https://hackathon-4a955.firebaseio.com",
+    "project_id": "hackathon-4a955",
+    "storage_bucket": "hackathon-4a955.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576911066150:android:35a01859c9742570e352e7",
+        "android_client_info": {
+          "package_name": "com.example.coronafightauthorities"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576911066150-kmkgk38qpdf2s8eulb63na4m29numd0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnxITdROeNx7JoJTm6Qk12XP-6P5RLE70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576911066150-kmkgk38qpdf2s8eulb63na4m29numd0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576911066150:android:f7a9e4e9cb0e83dfe352e7",
+        "android_client_info": {
+          "package_name": "com.rahtech.corona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576911066150-kmkgk38qpdf2s8eulb63na4m29numd0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnxITdROeNx7JoJTm6Qk12XP-6P5RLE70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576911066150-kmkgk38qpdf2s8eulb63na4m29numd0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
